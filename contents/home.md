@@ -2,9 +2,13 @@
 
 I completed my Bachelor's degree in Intelligent Science and Technology at Zhoukou Normal University.
 
+### Team Members
+Hu Jiawen and Zhu Wenjie
+
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2050542270@qq.com</code>  
+<code>3146813195@qq.com</code>
+<code>2282313625@qq.com</code>
 
 #### Education  
 
